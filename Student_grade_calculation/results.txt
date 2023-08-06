@@ -1,0 +1,5 @@
+Cengiz Han Uyar: Average: 100.00, Char Note: AA
+Zeynep Uyar: Average: 60.00, Char Note: DD
+Pervin Oflaz: Average: 20.00, Char Note: FF
+Oguz Uslu: Average: 86.67, Char Note: BA
+Zafer Soyad: Average: 100.00, Char Note: AA

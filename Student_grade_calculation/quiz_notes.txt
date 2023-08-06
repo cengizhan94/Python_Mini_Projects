@@ -1,0 +1,5 @@
+Cengiz Han Uyar:100,100,100
+Zeynep Uyar:50,60,70
+Pervin Oflaz:10,20,30
+Oguz Uslu:100,90,70
+Zafer Soyad:100,100,100
